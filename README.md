@@ -1,2 +1,5 @@
 # hello-world
-Just another repositort
+Just another repository
+Hi Humans!
+RNAseq from the moon, so much fun! 
+And cats, lots of cats!
